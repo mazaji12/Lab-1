@@ -1,6 +1,6 @@
 body {background-color: coral;}
 .myDiv{border: 5px outset red; background-color: lightgray; text-align: center; border-color: black;}
-.title{text-align: center}
+.title{text-align: right}
 .subtitle{font-weight: bold}
 p {margin: 35px;}
 p {padding: 35px;}
