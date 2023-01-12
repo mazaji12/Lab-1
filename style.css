@@ -1,7 +1,7 @@
-body {background-color: coral;}
+body {background-color: grey;}
 .myDiv {
     border: 5px outset red;
-    background-color: lightgray;    
+    background-color:white;    
     text-align: center;
   }
 .title{text-align: center}
