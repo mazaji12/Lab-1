@@ -1,0 +1,8 @@
+body {background-color: coral;}
+.myDiv{border: 5px outset red; background-color: lightgray; text-align: center; border-color: black;}
+.title{text-align: center}
+.subtitle{font-weight: bold}
+p {margin: 35px;}
+p {padding: 35px;}
+.myDiv {height: auto; border: 1px solid black;}
+.img1 {float: center;}
